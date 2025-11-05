@@ -1,0 +1,8 @@
+/* src/App.css */
+.app-container {
+  min-height: 100vh;
+}
+
+.login-card {
+    max-width: 450px;
+}
